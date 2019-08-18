@@ -1,0 +1,10 @@
+.vs
+Temp
+Library
+ProjectSettings
+Logs
+Packages
+CombineMesh.csproj
+CombineMesh.Editor.csproj
+CombineMesh.sln
+CombineMesh.zip
